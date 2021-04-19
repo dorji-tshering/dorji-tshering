@@ -1,0 +1,5 @@
+- Hi, I'm Dorji Tshering. I'm interested in creating responsive websites and web applications.
+- I'm currently learning ReactJs.
+- I've also made myself familier with backend development and have explored Ruby On Rails, ExpressJs, and NestJs.
+- I'm comfortable with Python, C, Java, Ruby, Javascript, Typescript, and ofcourse HTML and CSS.
+- You can reach me by this mail: dorjitshering370@gmail.com.
