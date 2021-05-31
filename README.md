@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dorjitshering" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dorjitshering" height="30" width="40" /></a>
+<a href="https://dev.to/dorjitshering" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=3&page=1&position=3&related_id=145807&origin=tag" alt="dorjitshering" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dorji-tshering-833919206/" target="blank"><img align="center" src="https://www.flaticon.com/free-icon/linkedin_145807?term=linkedin&page=1&position=3&page=1&position=3&related_id=145807&origin=tag" alt="https://www.linkedin.com/in/dorji-tshering-833919206/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dorjicodes" target="blank"><img align="center" src="https://www.flaticon.com/premium-icon/facebook_2168281?term=social%20media&page=1&position=4&page=1&position=4&related_id=2168281&origin=tag" alt="dorjicodes" height="30" width="40" /></a>
 </p>
