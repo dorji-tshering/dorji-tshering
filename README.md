@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Dorji Tshering</h1>
-<h3 align="center">A passionately curious programmer who loves designing user interface and logic writings for web applications.</h3>
+<h3 align="center">A passionately curious programmer who loves designing UI, UX, and operation logics of web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorji-tshering&label=Profile%20views&color=0e75b6&style=flat" alt="dorji-tshering" /> </p>
 
 - 🔭 I’m currently working on **my personal project, an ecommerce website.**
 
-- 🌱 I’m currently learning **ReactJs, NestJs, and Postgresql**
+- 🌱 I’m currently learning **ReactJs, NestJs, and Postgresql.**
 
-- 💬 Ask me about **react, nestjs.**
+- 💬 Ask me about **ReactJs, Nestjs, HTML and CSS..**
 
-- 📫 How to reach me **dorjitshering370@gmail.com**
+- 📫 You can reach me by this email: **dorjitshering370@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/dorjitshering" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dorjitshering" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dorji-tshering-833919206" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="dorji-tshering-833919206" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dorji-tshering-833919206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dorji-tshering-833919206/" height="30" width="40" /></a>
 <a href="https://fb.com/dorjicodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="dorjicodes" height="30" width="40" /></a>
 </p>
 
@@ -24,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dorji-tshering&show_icons=true&locale=en&layout=compact" alt="dorji-tshering" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dorji-tshering&show_icons=true&locale=en" alt="dorji-tshering" /></p>
-
