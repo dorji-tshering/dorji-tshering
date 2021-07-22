@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dorji-tshering&label=Profile%20views&color=0e75b6&style=flat" alt="dorji-tshering" /> </p>
 
-- 🔭 I’m currently working on **my personal project, an ecommerce website.**
+- 🔭 I’m currently working on **UI/UX design in Figma**
 
-- 🌱 I’m currently learning **ReactJs, NestJs, and Postgresql.**
+- 🌱 I’m currently learning **PHP, and Laravel**
 
-- 💬 Ask me about **ReactJs, Nestjs, HTML and CSS..**
+- 💬 Ask me about **ReactJs, Nestjs, Python, HTML and CSS..**
 
 - 📫 You can reach me by this email: **dorjitshering370@gmail.com**
 
