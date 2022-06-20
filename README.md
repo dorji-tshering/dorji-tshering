@@ -1,10 +1,16 @@
 ![banner](https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png)
 <div><img height="auto" src="(https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png"> </div>
-<img src="https://stackoverflow-badge.herokuapp.com/api/StackOverflowBadge/13817041">
-<img src="https://komarev.com/ghpvc/?username=dorji-tshering&style=flat-square&color=brightgreen">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorji-tshering&show_icons=true&theme=cobalt)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dorji-tshering&theme=github-green-purple)](https://git.io/streak-stats)
+<img src="https://komarev.com/ghpvc/?username=dorji-tshering&style=flat-square&color=brightgreen">
+<img src="https://github-readme-stackoverflow.vercel.app/?userID=13817041&theme=dark">
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorji-tshering&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dorji-tshering&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dorji-tshering&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dorji-tshering&theme=tokyonight)
+
 <h2>Technology Stack</h2>
 
 <div>
