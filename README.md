@@ -4,12 +4,17 @@
 <div><img height="auto" src="(https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png">
 <img src="https://komarev.com/ghpvc/?username=dorji-tshering&style=flat-square&color=brightgreen"> </div>
 <p>I am a college dropout and hence a self-taught developer. I love web development and have also touched on mobile app development with React Native. I also loved trying out NestJs for backend development. Currently I am developing an ecommerce website with Wordpress and Woocommerce! Also into Web3.</p>
+
+<h4>stackoverflow</h4>
+<a href="https://stackoverflow.com/users/13817041/dorji-tshering"><img src="https://github-readme-stackoverflow.vercel.app/?userID=13817041&theme=dark" alt="Dorji's Stackoverflow stats"></a>
   
-<img src="https://github-readme-stackoverflow.vercel.app/?userID=13817041&theme=dark">
+<h4>daily.dev</h4>
+<a href="https://app.daily.dev/DailyDevTips"><img width="210px" src="https://github.com/dorji-tshering/dorji-tshering/blob/main/devcard.svg" alt="Dorji's DevCard"></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorji-tshering&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dorji-tshering&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dorji-tshering&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dorji-tshering&theme=github_dark)
