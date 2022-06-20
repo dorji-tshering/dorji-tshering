@@ -1,9 +1,9 @@
 <div align="center">
   
 ![banner](https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png)
-<div><img height="auto" src="(https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png"> </div>
-
-<div><img src="https://komarev.com/ghpvc/?username=dorji-tshering&style=flat-square&color=brightgreen"></div>
+<div><img height="auto" src="(https://user-images.githubusercontent.com/78539150/174580509-f6c379f5-4196-4cc9-9497-cd3aace398a8.png">
+<img src="https://komarev.com/ghpvc/?username=dorji-tshering&style=flat-square&color=brightgreen"> </div>
+<p>I am a college dropout and hence a self-taught developer. I love web development and have also touched on mobile app development with React Native. I also loved trying out NestJs for backend development. Currently I am developing an ecommerce website with Wordpress and Woocommerce! Also into Web3.</p>
   
 <img src="https://github-readme-stackoverflow.vercel.app/?userID=13817041&theme=dark">
 
