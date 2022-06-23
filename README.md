@@ -10,6 +10,7 @@
   
 <h4>daily.dev</h4>
 <a href="https://app.daily.dev/DailyDevTips"><img width="210px" src="https://github.com/dorji-tshering/dorji-tshering/blob/main/devcard.svg" alt="Dorji's DevCard"></a>
+  <p color="red">.</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dorji-tshering&show_icons=true&theme=tokyonight)
