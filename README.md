@@ -9,6 +9,9 @@ I have done enough projects to make myself ready for any frontend development. N
 
 <p>If you have a bit of time to spare, you can read more about me and the projects I have done on my <a href="https://dorji-dev.vercel.app" target='_blank'>PORTFOLIO.</a></p>
 
+### Long Term Project
+<p>I have embarked on a journey of developing a fullstack e-commerce website with <a href="https://nextjs.org">NextJs</a> and <a href="https://medusajs.com/">MedusaJs.</a></p>
+
 <h3>Tech Stack</h3>
 <p>I also have acquainted myself with C, Java, and Python languages apart from the stack below.</p>
 
