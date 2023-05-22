@@ -3,9 +3,9 @@
 
 I am a self-taught Frontend/Wordpress developer. 🤠
 
-> I love building interactive websites with **React** and **NextJs**. I have also developed a fully featured <a href="https://tuo.shopping" target="_blank">e-commerce</a> website for a client using wordpress.
+> I love building interactive websites with **React** and **NextJs**. I also have experience working with **Wordpress**.
 
-I have done enough projects to make myself ready for any frontend development. Now I am looking forward to build something that will actually be useful for the end users and here I go!
+<p>Currently, I am working at <a href="https://bhutan.selise.ch/" target='_blank'>SELISE Bhutan</a>.</p>
 
 <p>If you have a bit of time to spare, you can read more about me and the projects I have done on my <a href="https://dorji-dev.vercel.app" target='_blank'>PORTFOLIO.</a></p>
 
